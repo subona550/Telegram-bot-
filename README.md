@@ -2,8 +2,8 @@ import telebot
 import json
 import os
 
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
-ADMIN_ID = 123456789  # আপনার নিজের Telegram ID বসান
+API_TOKEN = '8378103195:AAFXxttTTclT2DoQzhmI6rtNBdzvd_v_Ob0'
+ADMIN_ID = 8410960154  # আপনার নিজের Telegram ID বসান
 
 bot = telebot.TeleBot(API_TOKEN)
 
